@@ -62,11 +62,16 @@ plugins:
   - jekyll-feed
   - jekyll-archives
   - jekyll-paginate-v2  
+  - jekyll-responsive-image 
 whitelist:
   - jekyll-paginate-v2  
 
-include:
-    - .nojekyll
+#https://github.com/wildlyinaccurate/jekyll-responsive-image
+responsive_image:
+  template: _includes/picture.html
+  sizes:
+    - width: 320
+    - width: 640
 
 # Exclude from processing.
 # The following items will not be processed, by default.
