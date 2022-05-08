@@ -1,6 +1,6 @@
 ---
 layout: post
-title:   - jekyll-responsive-image within Vercel
+title: jekyll-responsive-image within Vercel
 date: 2022-05-08 08:05 +02:00
 tags: [test, image]
 category: life
