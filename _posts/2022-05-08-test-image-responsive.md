@@ -1,7 +1,7 @@
 ---
 layout: post
 title: image responsive jekyll
-date: 2022-05-08 10:05 +02:00
+date: 2022-05-08 08:05 +02:00
 tags: [test, image]
 category: life
 description: using jekyll-responsive-image with vercel CI CD
